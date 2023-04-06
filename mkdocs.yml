@@ -1,4 +1,4 @@
-site_name: Explainable AI via Learning to Optimize
+site_name: Howard Heaton
 theme:
   name: material
   features:
@@ -16,15 +16,6 @@ theme:
   language: en
   palette:
     - scheme: slate 
-  extra_css:
-    - stylesheets/extra.css   
-  icon:
-    repo: fontawesome/brands/github       
-
-# Github Repo
-repo_name: howardheaton/xai-via-l2o
-repo_url: https://github.com/howardheaton/xai
-
 
 plugins:
   - search
@@ -82,15 +73,9 @@ extra_javascript:
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 
 nav:
-    - 'Overview': 'index.md'
-    - 'Experiments':
-        - 'CT Image Reconstruction': 'exp-ct.md'
-        - 'Cryptosset Trading': 'exp-crypto.ipynb'
-        - 'Implicit Dictionary Learning': 'exp-dictionary.md'
-    - 'Tutorial':
-        - 'Tutorial': 'tutorial.ipynb'
+    - 'Overview': 'README.md'
 
 copyright: |
-  &copy; 2023 <a href="https://research.typal.academy"  target="_blank" rel="noopener">Typal Academy LLC</a>
+  &copy; 2023 Howard Heaton
   <br>
   <a href="#__consent">Cookie Settings</a>
