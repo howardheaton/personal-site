@@ -5,10 +5,10 @@
   20%, 60% {
     transform: scale(1.2);
   }
-  90% {
+  80% {
     transform: scale(1.05);
   }  
 }
 .heart {
-  animation: heart 1600ms infinite;
+  animation: heart 1800ms infinite;
 }
