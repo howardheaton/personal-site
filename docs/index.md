@@ -16,8 +16,11 @@ Overview of my academic work
 
 ### Qualifying Exam Notes
 
-For the UCLA Math PhD program, I sketched up notes on the 
-[Basic](https://raw.githubusercontent.com/howardheaton/website/main/notes/basic-notes.pdf), [Numerical Analysis](https://raw.githubusercontent.com/howardheaton/website/main/notes/num-anal-notes.pdf), and [Applied Differential Equations](https://raw.githubusercontent.com/howardheaton/website/main/notes/ade-notes.pdf) quals.
+For the UCLA Math PhD program, I sketched up notes below.
+
+[Basic Notes :fontawesome-solid-file-lines:](assets/basic-notes.pdf){ .md-button .md-button--primary }
+[Numerical Analyis Notes :fontawesome-solid-file-image:](assets/num-anal-notes.pdf){ .md-button .md-button--primary }
+[Applied Differential Equations Notes :fontawesome-solid-file-lines:](assets/ade-notes.pdf){ .md-button .md-button--primary } 
 
 
 ### Slackline
