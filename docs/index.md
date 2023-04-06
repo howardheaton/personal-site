@@ -1,6 +1,6 @@
 This site directs traffic to my areas of work. 
 
-[Typal Academy](https://typal.academy){ .md-button .md-button--primary }
+[Typal Academy :fontawesome-solid-face-smile:](https://typal.academy){ .md-button .md-button--primary }
 
 A friendly introduction to real analysis.
 
@@ -12,7 +12,7 @@ Research at the intersection of big data, optimization, and explainability
 
 <br>
 
-[Google Scholar :fontawesome-solid-newspaper:](https://scholar.google.com/citations?user=blvaFx4AAAAJ){ .md-button .md-button--primary}
+[Google Scholar :fontawesome-simple-scholar:](https://scholar.google.com/citations?user=blvaFx4AAAAJ){ .md-button .md-button--primary}
 
 <br>
 
