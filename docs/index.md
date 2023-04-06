@@ -1,8 +1,10 @@
-This site directs traffic to my areas of work. 
+# Optimization Engineer
 
-[Typal Academy :octicons-heart-fill-24:{ .heart }](https://typal.academy){ .md-button .md-button--primary }
+Howard is specializes in the creation and application of optimization algorithms. He also enjoys creating graphics for communicating mathematics in research and education.
 
-A friendly introduction to real analysis.
+[Typal Academy Course :octicons-heart-fill-24:{ .heart }](https://typal.academy){ .md-button .md-button--primary }
+
+A friendly introduction to real analysis
 
 <br>
 
