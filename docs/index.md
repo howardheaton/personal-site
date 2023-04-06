@@ -1,18 +1,18 @@
 This site directs traffic to my areas of work. 
 
-[Typal Academy :fontawesome-solid-face-smile:](https://typal.academy){ .md-button .md-button--primary }
+[Typal Academy :octicons-heart-fill-24:{ .heart }](https://typal.academy){ .md-button .md-button--primary }
 
 A friendly introduction to real analysis.
 
 <br>
 
-[Typal Academy Research](https://research.typal.llc){ .md-button .md-button--primary }
+[Typal Academy Research :fontawesome-solid-face-smile:](https://research.typal.llc){ .md-button .md-button--primary }
 
 Research at the intersection of big data, optimization, and explainability
 
 <br>
 
-[Google Scholar :fontawesome-simple-scholar:](https://scholar.google.com/citations?user=blvaFx4AAAAJ){ .md-button .md-button--primary}
+[Google Scholar :fontawesome-brands-google:](https://scholar.google.com/citations?user=blvaFx4AAAAJ){ .md-button .md-button--primary}
 
 <br>
 
