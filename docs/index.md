@@ -30,7 +30,7 @@ Notes for qualifying exams in the math PhD program at UCLA
 
 <br>
 
-Howard enjoys surfing, running, and slacklining. Below are photos of him slacklining; safety measures were taken.
+Howard enjoys surfing, running, and slacklining. Below are photos of him slacklining.
 
 <figure markdown>
   ![Slackline](assets/slackline-1.jpeg){ width="300" }
