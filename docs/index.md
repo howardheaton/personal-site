@@ -2,19 +2,15 @@
 
 This site directs traffic to my areas of work. 
 
-### [Typal Academy](https://typal.academy)
+[Typal Academy](https://typal.academy){ .md-button }
 
-The beginner's guide to real analysis and optimization
+A friendly introduction to real analysis.
 
-### [Typal Research](https://research.typal.llc)
+[Typal Academy Research](https://research.typal.llc){ .md-button }
 
 Research at the intersection of big data, optimization, and explainability
 
-### [Google Scholar](https://scholar.google.com/citations?user=blvaFx4AAAAJ)
-
-Overview of my academic work
-
-### Qualifying Exam Notes
+[Google Scholar :fontawesome-brands-google-scholar:](https://scholar.google.com/citations?user=blvaFx4AAAAJ){ .md-button}
 
 For the UCLA Math PhD program, I sketched up notes below.
 
