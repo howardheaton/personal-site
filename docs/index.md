@@ -19,7 +19,9 @@ For the UCLA Math PhD program, I sketched up notes below.
 [Applied Differential Equations Notes :fontawesome-solid-file-lines:](assets/ade-notes.pdf){ .md-button .md-button--primary } 
 
 
-### Slackline
+**Slackline**
+
+A hobby of mine is slacklining. All photos are real and safety measures were taken.
 
 <figure markdown>
   ![Slackline](assets/slackline-1.jpeg){ width="300" }
