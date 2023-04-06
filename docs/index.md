@@ -16,17 +16,17 @@ Research at the intersection of big data, optimization, and explainability
 
 <br>
 
-[Basic Notes :fontawesome-solid-file-lines:](assets/basic-notes.pdf){ .md-button .md-button--primary }
+[Basic Notes :fontawesome-solid-file-lines: ](assets/basic-notes.pdf){ .md-button .md-button--primary }
 
-[Numerical Analyis Notes :fontawesome-solid-file-lines:](assets/num-anal-notes.pdf){ .md-button .md-button--primary }
+[Numerical Analyis Notes :fontawesome-solid-file-lines: ](assets/num-anal-notes.pdf){ .md-button .md-button--primary }
 
-[Applied Differential Equations Notes :fontawesome-solid-file-lines:](assets/ade-notes.pdf){ .md-button .md-button--primary } 
+[Applied Differential Equations Notes :fontawesome-solid-file-lines: ](assets/ade-notes.pdf){ .md-button .md-button--primary } 
 
 Notes for qualifying exams in the math PhD program at UCLA
 
 <br>
 
-<script type="text/javascript" src="https://form.jotform.com/jsform/202374975441156"></script>
+[Contact Form :material-chat-processing: ](https://form.jotform.com/heatonforms/contact){ .md-button .md-button--primary }
 
 <br>
 
