@@ -18,7 +18,6 @@ theme:
     - scheme: slate 
 
 plugins:
-  - search
   - mkdocstrings
   - mkdocs-jupyter:
       theme: dark
