@@ -24,6 +24,9 @@ plugins:
       include_source: True
       include: ["*.ipynb"]
 
+extra_css:
+  - stylesheets/extra.css
+
 extra:
   social:
     - icon: fontawesome/brands/instagram
