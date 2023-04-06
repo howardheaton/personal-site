@@ -1,11 +1,11 @@
 @keyframes heart {
-  0%, 40%, 75%, 100% {
+  0%, 40%, 70%, 80%, 100% {
     transform: scale(1);
   }
   20%, 60% {
     transform: scale(1.2);
   }
-  80% {
+  75% {
     transform: scale(1.05);
   }  
 }
