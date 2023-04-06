@@ -1,6 +1,6 @@
 # Optimization Engineer
 
-Howard is specializes in the creation and application of optimization algorithms, including for deep learning applications. He also enjoys creating mathematical graphics for communicating research and education ideas.
+Howard specializes in the creation and application of optimization algorithms, including for deep learning applications. He also enjoys creating mathematical graphics for communicating research and education ideas.
 
 [Typal Academy Course :octicons-heart-fill-24:{ .heart }](https://typal.academy){ .md-button .md-button--primary }
 
