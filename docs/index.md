@@ -26,9 +26,7 @@ Notes for qualifying exams in the math PhD program at UCLA
 
 <br>
 
-**Slackline**
-
-A hobby of mine is slacklining. All photos are real and safety measures were taken.
+Howard enjoys surfing, running, and slacklining. All photos below of him slacklining are real, and safety measures were taken.
 
 <figure markdown>
   ![Slackline](assets/slackline-1.jpeg){ width="300" }
