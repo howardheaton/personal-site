@@ -2,7 +2,7 @@
 
 Howard specializes in the creation and application of optimization algorithms for big data problems, including for deep learning applications. He also enjoys creating mathematical graphics for communicating in research and education.
 
-[Typal Academy Course $\ $ :octicons-heart-fill-24:{ .heart }](https://typal.academy){ .md-button .md-button--primary }
+[Typal Academy Course :octicons-heart-fill-24:{ .heart }](https://typal.academy){ .md-button .md-button--primary }
 
 A friendly introduction to real analysis
 
