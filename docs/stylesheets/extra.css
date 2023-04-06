@@ -1,11 +1,14 @@
 @keyframes heart {
-  0%, 40%, 80%, 100% {
+  0%, 40%, 75%, 100% {
     transform: scale(1);
   }
   20%, 60% {
-    transform: scale(1.25);
+    transform: scale(1.2);
   }
+  90% {
+    transform: scale(1.05);
+  }  
 }
 .heart {
-  animation: heart 1200ms infinite;
+  animation: heart 1600ms infinite;
 }
