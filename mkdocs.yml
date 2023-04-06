@@ -1,6 +1,8 @@
 site_name: Howard Heaton
 theme:
   name: material
+  icon:
+    logo: material/math-integral-box
   features:
     - content.code.annotation
     - content.code.copy
