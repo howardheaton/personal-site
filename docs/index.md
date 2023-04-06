@@ -1,16 +1,20 @@
-# Howard Heaton
-
 This site directs traffic to my areas of work. 
 
 [Typal Academy](https://typal.academy){ .md-button .md-button--primary }
 
 A friendly introduction to real analysis.
 
+<br>
+
 [Typal Academy Research](https://research.typal.llc){ .md-button .md-button--primary }
 
 Research at the intersection of big data, optimization, and explainability
 
-[Google Scholar :fontawesome-brands-google-scholar:](https://scholar.google.com/citations?user=blvaFx4AAAAJ){ .md-button .md-button--primary}
+<br>
+
+[Google Scholar :fontawesome-solid-newspaper:](https://scholar.google.com/citations?user=blvaFx4AAAAJ){ .md-button .md-button--primary}
+
+<br>
 
 For the UCLA Math PhD program, I sketched up notes below.
 
@@ -18,6 +22,7 @@ For the UCLA Math PhD program, I sketched up notes below.
 [Numerical Analyis Notes :fontawesome-solid-file-image:](assets/num-anal-notes.pdf){ .md-button .md-button--primary }
 [Applied Differential Equations Notes :fontawesome-solid-file-lines:](assets/ade-notes.pdf){ .md-button .md-button--primary } 
 
+<br>
 
 **Slackline**
 
