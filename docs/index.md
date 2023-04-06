@@ -2,15 +2,15 @@
 
 This site directs traffic to my areas of work. 
 
-[Typal Academy](https://typal.academy){ .md-button--primary }
+[Typal Academy](https://typal.academy){ .md-button .md-button--primary }
 
 A friendly introduction to real analysis.
 
-[Typal Academy Research](https://research.typal.llc){ .md-button--primary }
+[Typal Academy Research](https://research.typal.llc){ .md-button .md-button--primary }
 
 Research at the intersection of big data, optimization, and explainability
 
-[Google Scholar :fontawesome-brands-google-scholar:](https://scholar.google.com/citations?user=blvaFx4AAAAJ){ .md-button--primary}
+[Google Scholar :fontawesome-brands-google-scholar:](https://scholar.google.com/citations?user=blvaFx4AAAAJ){ .md-button .md-button--primary}
 
 For the UCLA Math PhD program, I sketched up notes below.
 
