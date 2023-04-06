@@ -18,7 +18,7 @@ Research at the intersection of big data, optimization, and explainability
 
 [Basic Notes :fontawesome-solid-file-lines:](assets/basic-notes.pdf){ .md-button .md-button--primary }
 
-[Numerical Analyis Notes :fontawesome-solid-file-image:](assets/num-anal-notes.pdf){ .md-button .md-button--primary }
+[Numerical Analyis Notes :fontawesome-solid-file-lines:](assets/num-anal-notes.pdf){ .md-button .md-button--primary }
 
 [Applied Differential Equations Notes :fontawesome-solid-file-lines:](assets/ade-notes.pdf){ .md-button .md-button--primary } 
 
@@ -26,7 +26,7 @@ Notes for qualifying exams in the math PhD program at UCLA
 
 <br>
 
-Howard enjoys surfing, running, and slacklining. All photos below of him slacklining are real, and safety measures were taken.
+Howard enjoys surfing, running, and slacklining. Below are photos of him slacklining; safety measures were taken.
 
 <figure markdown>
   ![Slackline](assets/slackline-1.jpeg){ width="300" }
