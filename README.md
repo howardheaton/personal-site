@@ -1,1 +1,1 @@
-This repo is for my [personal website](https://howardheaton.tech).
+This repo is for Howard's [personal website](https://howardheaton.tech).
