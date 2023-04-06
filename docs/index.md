@@ -22,7 +22,7 @@ For the UCLA Math PhD program, I sketched up notes below.
 
 [Basic Notes :fontawesome-solid-file-lines:](assets/basic-notes.pdf){ .md-button .md-button--primary }
 [Numerical Analyis Notes :fontawesome-solid-file-image:](assets/num-anal-notes.pdf){ .md-button .md-button--primary }
-[Applied Differential Equations Notes :fontawesome-solid-file-lines:](assets/ade-notes.pdf){ .md-button .md-button--primary } 
+[Applied Diff. Equations Notes :fontawesome-solid-file-lines:](assets/ade-notes.pdf){ .md-button .md-button--primary } 
 
 <br>
 
