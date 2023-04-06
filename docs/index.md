@@ -2,15 +2,15 @@
 
 This site directs traffic to my areas of work. 
 
-[Typal Academy](https://typal.academy){ .md-button }
+[Typal Academy](https://typal.academy){ .md-button--primary }
 
 A friendly introduction to real analysis.
 
-[Typal Academy Research](https://research.typal.llc){ .md-button }
+[Typal Academy Research](https://research.typal.llc){ .md-button--primary }
 
 Research at the intersection of big data, optimization, and explainability
 
-[Google Scholar :fontawesome-brands-google-scholar:](https://scholar.google.com/citations?user=blvaFx4AAAAJ){ .md-button}
+[Google Scholar :fontawesome-brands-google-scholar:](https://scholar.google.com/citations?user=blvaFx4AAAAJ){ .md-button--primary}
 
 For the UCLA Math PhD program, I sketched up notes below.
 
@@ -21,10 +21,17 @@ For the UCLA Math PhD program, I sketched up notes below.
 
 ### Slackline
 
-<center>
-  <img src="https://raw.githubusercontent.com/howardheaton/website/main/images/slackline-1.jpeg" alt="Howard Slacklining" style="width:300px;"/>
-  <br>
-  <img src="https://raw.githubusercontent.com/howardheaton/website/main/images/slackline-2.jpeg" alt="Howard Slacklining" style="width:300px;"/>
-  <br>
-  <img src="https://raw.githubusercontent.com/howardheaton/website/main/images/slackline-3.jpeg" alt="Howard Slacklining" style="width:300px;"/>
-</center>
+<figure markdown>
+  ![Slackline](assets/slackline-1.jpeg){ width="300" }
+  <figcaption>Slacklining at Smith Rock, OR.</figcaption>
+</figure>
+
+<figure markdown>
+  ![Slackline](assets/slackline-2.jpeg){ width="300" }
+  <figcaption>Slacklining at Smith Rock, OR.</figcaption>
+</figure>
+
+<figure markdown>
+  ![Slackline](assets/slackline-3.jpeg){ width="300" }
+  <figcaption>Slacklining at a park in College Place, WA.</figcaption>
+</figure>
