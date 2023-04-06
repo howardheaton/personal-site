@@ -1,3 +1,1 @@
-# Howard Heaton
-
-Here is the content.
+This repo is for my [personal website](https://howardheaton.tech).
