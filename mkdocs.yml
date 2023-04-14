@@ -1,4 +1,6 @@
 site_name: Howard Heaton
+site_description: Personal site for Howard Heaton, a specialist in the development of optimization algorithms for big data
+
 theme:
   name: material
   icon:
@@ -16,6 +18,10 @@ plugins:
       theme: dark
       include_source: True
       include: ["*.ipynb"]
+  - social:
+      cards_color:
+        fill: "#7086DF" 
+        text: "#FFFFFF"      
 
 extra_css:
   - stylesheets/extra.css
