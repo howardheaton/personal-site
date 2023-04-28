@@ -51,8 +51,8 @@
   --md-code-fg-color: var(--md-primary-bg-color);
 
   /* Header */
-  --md-header-bg-color:       #ffffff;
-  --md-header-bg-color--dark: #ffffff;
+  --md-header-fg-color:       #ffffff; 
+  --md-header-bg-color:       #ffffff; 
   
   /* Footer */
   --md-footer-bg-color:        var(--md-primary-fg-color);
