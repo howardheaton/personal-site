@@ -1,16 +1,5 @@
 site_name: Howard Heaton
-site_description: Personal site for Howard Heaton, a specialist in the development of optimization algorithms for big data
-
-theme:
-  name: material
-  logo: assets/logo-v3-light.png
-  favicon: assets/logo-v3-dark.png   
-  features:
-    - content.code.annotation
-    - content.code.copy
-  language: en
-  palette:
-    - scheme: slate 
+site_description: Howard specializes in the creation and application of optimization algorithms for big data problems, including for deep learning applications. 
 
 plugins:
   - mkdocstrings
@@ -25,6 +14,19 @@ plugins:
 
 extra_css:
   - stylesheets/extra.css
+
+theme:
+  name: material
+  logo: assets/logo-v3-light.png
+  favicon: assets/logo-v3-dark.png   
+  features:
+    - content.code.annotation
+    - content.code.copy
+  language: en
+  palette:
+    - scheme: slate 
+
+
 
 extra:
   homepage: https://typal.academy
