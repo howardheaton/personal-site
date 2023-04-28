@@ -64,6 +64,7 @@
   --md-footer-fg-color--lighter: hsla(0, 0%, 100%, 0.3);
   
   .md-button--yellow {
-    background: #ffbc50;
+    color: #ffffff;
+    background: #ffbc50; 
   }
 }
