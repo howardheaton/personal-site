@@ -41,7 +41,7 @@
     --md-text-link-color:         var(--md-typeset-color);
 
     /* Accent color shades */
-    --md-accent-fg-color: #5e72c1;
+    --md-accent-fg-color:             #ffffff;
     --md-accent-fg-color--transparent: var(--md-typeset-color);
     --md-accent-bg-color:              var(--md-typeset-color);
     --md-accent-bg-color--light:       var(--md-typeset-color);   
