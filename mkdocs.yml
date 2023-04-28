@@ -17,7 +17,7 @@ extra_css:
 
 theme:
   name: material
-  logo: assets/logo-v3-dark.png
+  logo: assets/logo-v3-light.png
   favicon: assets/logo-v3-dark.png   
   features:
     - content.code.annotation
