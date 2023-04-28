@@ -16,9 +16,9 @@
 /* Light mode */
 [data-md-color-scheme="slate"] {
 
-  --md-primary-bg-color: #d3d9f3;
-  --md-default-bg-color: #494f65;
-  --md-primary-fg-color: #7086DF;  
+  --md-primary-bg-color: #ffffff;
+  --md-default-bg-color: #ffffff;
+  --md-primary-fg-color: #ffbc50;  
 
   --md-default-bg-color--light:    var(--md-primary-bg-color);
   --md-default-bg-color--lighter:  var(--md-primary-bg-color);
