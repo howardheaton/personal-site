@@ -18,7 +18,7 @@
 
   --md-primary-bg-color: #ffffff;
   --md-default-bg-color: #ffffff;
-  --md-primary-fg-color: #ffbc50;  
+  --md-primary-fg-color: #7086DF;  
 
   --md-default-bg-color--light:    var(--md-primary-bg-color);
   --md-default-bg-color--lighter:  var(--md-primary-bg-color);
@@ -53,6 +53,8 @@
   /* Header */
   --md-header-fg-color:       #ffffff; 
   --md-header-bg-color:       #ffffff; 
+ 
+  --md-button-bg: ffbc50; 
   
   /* Footer */
   --md-footer-bg-color:        var(--md-primary-fg-color);
