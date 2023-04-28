@@ -29,7 +29,7 @@
   --md-default-fg-color--lightest: var(--md-primary-fg-color);
   --md-default-fg-color--dark:     var(--md-primary-fg-color);
   
-  --md-typeset-color:      var(--md-primary-bg-color);
+  --md-typeset-color:      #2D2D2D;
   --md-typeset-a-color:    var(--md-typeset-color);
   --md-typeset-mark-color: var(--md-typeset-color); 
 
