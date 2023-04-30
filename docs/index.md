@@ -8,7 +8,7 @@ A friendly introduction to real analysis
 
 <br>
 
-[Typal Academy Research :fontawesome-solid-face-smile:](https://research.typal.academy){ .md-button .md-button--yellow }
+[Research :fontawesome-solid-face-smile:](https://research.typal.academy){ .md-button .md-button--yellow }
 
 [Google Scholar Profile :fontawesome-brands-google:](https://scholar.google.com/citations?user=blvaFx4AAAAJ){ .md-button .md-button--yellow}
 
