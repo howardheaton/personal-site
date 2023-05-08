@@ -34,27 +34,27 @@
   --md-typeset-mark-color: var(--md-typeset-color); 
 
   --md-admonition-fg-color: var(--md-typeset-color);
-  --md-admonition-bg-color:#535971;  
+  --md-admonition-bg-color: #e0e5f8;  
 
     /* Primary color shades */
     --md-primary-bg-color--light: var(--md-typeset-color);
     --md-text-link-color:         var(--md-typeset-color);
 
     /* Accent color shades */
-    --md-accent-fg-color:             #ffffff;
+    --md-accent-fg-color:             #7086DF;
     --md-accent-fg-color--transparent: var(--md-typeset-color);
     --md-accent-bg-color:              var(--md-typeset-color);
     --md-accent-bg-color--light:       var(--md-typeset-color);   
 
   /* Code block color shades */
-  --md-code-bg-color: #333950;
+  --md-code-bg-color: var(--md-admonition-bg-color);
   --md-code-fg-color: var(--md-primary-bg-color);
 
   /* Header */
   --md-header-fg-color:       #ffffff; 
   --md-header-bg-color:       #ffffff; 
  
-  --md-button-bg: ffbc50; 
+  .md-button {border-radius: 20px;}
   
   /* Footer */
   --md-footer-bg-color:        var(--md-primary-fg-color);
@@ -62,9 +62,5 @@
   --md-footer-fg-color: hsla(0, 0%, 100%, 1);
   --md-footer-fg-color--light: hsla(0, 0%, 100%, 0.7);
   --md-footer-fg-color--lighter: hsla(0, 0%, 100%, 0.3);
-  
-  .md-button--yellow {
-    color: #ffffff;
-    background: #ffbc50; 
-  }
+   
 }
