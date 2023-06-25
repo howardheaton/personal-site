@@ -1,8 +1,9 @@
 # Optimization Engineer
 
-Howard specializes in the creation and application of optimization algorithms to big data problems, particularly the creation, training, and evaluation of models that are data-driven (i.e. deep learning applications) and require hard constraints be satisfied (e.g. large linear systems of equations for physical systems).  
-
 <center>
+ 
+Howard specializes in the creation and application of optimization algorithms to big data problems, particularly the creation, training, and evaluation of models that are data-driven and require hard constraints be satisfied (e.g. large systems of equations for physical systems).  
+
 [Explainable AI Preprint :fontawesome-solid-face-smile:](https://xai-l2o.research.typal.academy/assets/xai-l2o-preprint.pdf){ .md-button }
 [Explainable AI Slides :fontawesome-solid-face-smile:](https://xai-l2o.research.typal.academy/assets/xai-l2o-slides.pdf){ .md-button }
 [Code / Docs :fontawesome-solid-face-smile:](https://xai-l2o.research.typal.academy/){ .md-button }
@@ -19,7 +20,7 @@ A friendly introduction to real analysis
 
 <br>
 
-[Research Website:fontawesome-solid-face-smile:](https://research.typal.academy){ .md-button }
+[Research Website :fontawesome-solid-face-smile:](https://research.typal.academy){ .md-button }
 
 [Google Scholar Profile :fontawesome-brands-google:](https://scholar.google.com/citations?user=blvaFx4AAAAJ){ .md-button .md-button--yellow}
 
