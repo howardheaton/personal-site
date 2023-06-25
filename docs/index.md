@@ -1,14 +1,24 @@
 # Optimization Engineer
 
-Howard specializes in the creation and application of optimization algorithms for big data problems, including for deep learning applications. He also enjoys creating mathematical graphics for communicating in research and education.
+Howard specializes in the creation and application of optimization algorithms to big data problems, particularly the creation, training, and evaluation of models that are data-driven (i.e. deep learning applications) and require hard constraints be satisfied (e.g. large linear systems of equations for physical systems). Below is an example of recent work published in Nature's Scientific Reports.
 
+<center>
+[Explainable AI Preprint :fontawesome-solid-face-smile:](https://xai-l2o.research.typal.academy/assets/xai-l2o-preprint.pdf){ .md-button }
+[Explainable AI Slides :fontawesome-solid-face-smile:](https://xai-l2o.research.typal.academy/assets/xai-l2o-slides.pdf){ .md-button }
+[Code / Docs :fontawesome-solid-face-smile:](https://xai-l2o.research.typal.academy/){ .md-button }
+</center>
+
+
+Howard also enjoys creating mathematical graphics for communicating research and educating aspiring mathematicians.
+
+<center>
 [Typal Academy Course :octicons-heart-fill-24:{ .heart }](https://typal.academy){ .md-button }
-
+  
 A friendly introduction to real analysis
 
 <br>
 
-[Research :fontawesome-solid-face-smile:](https://research.typal.academy){ .md-button }
+[Research Website:fontawesome-solid-face-smile:](https://research.typal.academy){ .md-button }
 
 [Google Scholar Profile :fontawesome-brands-google:](https://scholar.google.com/citations?user=blvaFx4AAAAJ){ .md-button .md-button--yellow}
 
@@ -30,7 +40,7 @@ Notes for qualifying exams in the math PhD program at UCLA
 
 <br>
 
-Howard enjoys surfing, running, and slacklining. Below are photos of him slacklining.
+Howard enjoys activities that require focus, especially running, powerlifting, and slacklining (shown below).
 
 <figure markdown>
   ![Slackline](assets/slackline-1.jpeg){ width="300" }
@@ -46,3 +56,4 @@ Howard enjoys surfing, running, and slacklining. Below are photos of him slackli
   ![Slackline](assets/slackline-3.jpeg){ width="300" }
   <figcaption>Slacklining at a park in College Place, WA.</figcaption>
 </figure>
+</center>
