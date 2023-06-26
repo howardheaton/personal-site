@@ -6,7 +6,7 @@ Howard specializes in optimization algorithms for big data problems, particularl
 
 <br>
 
-[Explainable AI Preprint :fontawesome-solid-file-lines:](https://xai-l2o.research.typal.academy/assets/xai-l2o-preprint.pdf){ .md-button }
+[Explainable AI Preprint :material-file-document-outline:](https://xai-l2o.research.typal.academy/assets/xai-l2o-preprint.pdf){ .md-button }
 [Explainable AI Slides :material-presentation:](https://xai-l2o.research.typal.academy/assets/xai-l2o-slides.pdf){ .md-button }
 [Code / Docs :octicons-file-code-16:](https://xai-l2o.research.typal.academy/){ .md-button }
 
