@@ -2,13 +2,13 @@
 
 <center>
  
-Howard specializes in the creation and application of optimization algorithms to big data problems, particularly the creation, training, and evaluation of models that are data-driven and require hard constraints be satisfied (e.g. large systems of equations for physical systems).  
+Howard specializes in optimization algorithms for big data problems, particularly the creation, training, and evaluation of models that are data-driven and require hard constraints be satisfied (e.g. large systems of equations for physical systems).  
 
 <br>
 
-[Explainable AI Preprint :fontawesome-solid-face-smile:](https://xai-l2o.research.typal.academy/assets/xai-l2o-preprint.pdf){ .md-button }
-[Explainable AI Slides :fontawesome-solid-face-smile:](https://xai-l2o.research.typal.academy/assets/xai-l2o-slides.pdf){ .md-button }
-[Code / Docs :fontawesome-solid-face-smile:](https://xai-l2o.research.typal.academy/){ .md-button }
+[Explainable AI Preprint :fontawesome-solid-file-lines:](https://xai-l2o.research.typal.academy/assets/xai-l2o-preprint.pdf){ .md-button }
+[Explainable AI Slides :material-presentation:](https://xai-l2o.research.typal.academy/assets/xai-l2o-slides.pdf){ .md-button }
+[Code / Docs :octicons-file-code-16:](https://xai-l2o.research.typal.academy/){ .md-button }
 
 Recent work published in Nature's Scientific Reports
 
