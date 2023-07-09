@@ -16,7 +16,7 @@ Recent Explainable AI work, published in Nature's Scientific Reports
 
 Howard creates graphics for communicating research and educating aspiring mathematicians.
  
-[Typal Academy Course :octicons-heart-fill-24:{ .heart }](https://typal.academy){ .md-button }
+[Typal Academy :octicons-heart-fill-24:{ .heart }](https://typal.academy){ .md-button }
   
 A friendly introduction to real analysis
 
