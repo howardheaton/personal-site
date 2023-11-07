@@ -34,11 +34,11 @@ extra:
     - icon: fontawesome/brands/instagram
       link: https://instagram.com/TypalAcademy  
     - icon: fontawesome/brands/twitter
-      link: https://twitter.com/TypalAcademy
-    - icon: fontawesome/brands/vimeo
-      link: https://vimeo.com/TypalAcademy    
+      link: https://twitter.com/TypalAcademy   
     - icon: fontawesome/brands/youtube
       link: https://youtube.com/@TypalAcademy    
+    - icon: fontawesome/brand/substack
+      link: https://substack.com/@howardheaton
   consent:
     title: Cookie Consent
     description: >- 
