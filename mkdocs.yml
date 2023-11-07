@@ -37,7 +37,7 @@ extra:
       link: https://twitter.com/TypalAcademy   
     - icon: fontawesome/brands/youtube
       link: https://youtube.com/@TypalAcademy    
-    - icon: fontawesome/brand/substack
+    - icon: simple/substack
       link: https://substack.com/@howardheaton
   consent:
     title: Cookie Consent
