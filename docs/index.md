@@ -14,28 +14,22 @@ Recent Explainable AI work, published in Nature's Scientific Reports
 
 <br>
 
-<br>
-
-
-Howard writes and creates graphics for communicating research and educating aspiring mathematicians.
- 
-<iframe src="https://optstack.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
-
-<br>
- 
-[Typal Academy :octicons-heart-fill-24:{ .heart }](https://typal.academy){ .md-button }
-  
-A friendly introduction to real analysis
-
-<br>
-
-<br>
-
 [Research Website :fontawesome-solid-face-smile:](https://research.typal.academy){ .md-button }
 
 [Google Scholar Profile :fontawesome-brands-google:](https://scholar.google.com/citations?user=blvaFx4AAAAJ){ .md-button .md-button--yellow}
 
-Research at the intersection of big data, optimization, and explainability
+<br>
+
+<br>
+
+
+Howard writes and creates graphics for aspiring mathematicians.
+ 
+<iframe src="https://optstack.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+
+[Typal Academy :octicons-heart-fill-24:{ .heart }](https://typal.academy){ .md-button }
+  
+A friendly introduction to real analysis
 
 <br>
 
