@@ -30,6 +30,12 @@ Research at the intersection of big data, optimization, and explainability
 
 <br>
 
+<center>
+ <iframe src="https://optstack.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+</center>
+
+<br>
+
 [Basic Notes :fontawesome-solid-file-lines: ](assets/basic-notes.pdf){ .md-button .md-button--primary }
 
 [Numerical Analyis Notes :fontawesome-solid-file-lines: ](assets/num-anal-notes.pdf){ .md-button .md-button--primary }
