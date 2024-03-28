@@ -4,9 +4,7 @@ site_description: Howard specializes in the creation and application of optimiza
 plugins:
   - mkdocstrings
   - social:
-      cards_color:
-        fill: "#7086DF" 
-        text: "#FFFFFF"      
+      cards_layout_options.background_color: "#7086DF"   
 
 extra_css:
   - stylesheets/extra.css
