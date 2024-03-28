@@ -1,11 +1,6 @@
 site_name: Howard Heaton
 site_description: Howard specializes in the creation and application of optimization algorithms for big data problems, including for deep learning applications. 
 
-plugins:
-  - mkdocstrings
-  - social:
-      cards_layout_options.background_color: "#7086DF"   
-
 extra_css:
   - stylesheets/extra.css
 
