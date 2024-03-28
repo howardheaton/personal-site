@@ -3,10 +3,6 @@ site_description: Howard specializes in the creation and application of optimiza
 
 plugins:
   - mkdocstrings
-  - mkdocs-jupyter:
-      theme: dark
-      include_source: True
-      include: ["*.ipynb"]
   - social:
       cards_color:
         fill: "#7086DF" 
@@ -31,27 +27,14 @@ theme:
 extra:
   homepage: https://typal.academy
   social:
-    - icon: fontawesome/brands/instagram
-      link: https://instagram.com/TypalAcademy  
-    - icon: fontawesome/brands/twitter
-      link: https://twitter.com/TypalAcademy   
+    - icon: fontawesome/brands/patreon
+      link: https://patreon.com/TypalAcademy         
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/company/typalacademy  
     - icon: fontawesome/brands/youtube
       link: https://youtube.com/@TypalAcademy    
     - icon: simple/substack
-      link: https://substack.com/@howardheaton
-  consent:
-    title: Cookie Consent
-    description: >- 
-      We use cookies to recognize your repeated visits and preferences, as well
-      as to measure the effectiveness of our documentation and whether users
-      find what they are searching for. Your consent helps make this site better.
-    cookies:
-      analytics:
-        name: Google Analytics
-        checked: true
-  analytics:
-    provider: google
-    property: G-5080H11KV0        
+      link: https://substack.com/@howardheaton    
 
 
 markdown_extensions:
