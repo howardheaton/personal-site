@@ -15,7 +15,7 @@ theme:
   palette:
     - scheme: slate 
 
-
+plugins: [] # required to remove search bar
 
 extra:
   homepage: https://typal.academy
