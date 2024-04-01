@@ -33,13 +33,13 @@ A friendly introduction to real analysis
 
 <br>
 
+Howard completed his PhD at UCLA under the advisement of Wotao Yin and Stanley Osher. Below are his notes for qualifying exams in the math program at UCLA.
+
 [Basic Notes :fontawesome-solid-file-lines: ](assets/basic-notes.pdf){ .md-button .md-button--primary }
 
 [Numerical Analyis Notes :fontawesome-solid-file-lines: ](assets/num-anal-notes.pdf){ .md-button .md-button--primary }
 
 [Applied Differential Equations Notes :fontawesome-solid-file-lines: ](assets/ade-notes.pdf){ .md-button .md-button--primary } 
-
-Notes for qualifying exams in the math PhD program at UCLA
 
 <br>
 
