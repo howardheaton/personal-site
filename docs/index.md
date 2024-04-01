@@ -61,6 +61,6 @@ Howard enjoys activities that require focus, especially running, powerlifting, a
 
 <figure markdown>
   ![Slackline](assets/slackline-3.jpeg){ width="300" }
-  <figcaption>Slacklining at a park in College Place, WA.</figcaption>
+  <figcaption>Slacklining at a park.</figcaption>
 </figure>
 </center>
