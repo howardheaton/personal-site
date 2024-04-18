@@ -33,7 +33,7 @@ A friendly introduction to real analysis
 
 <br>
 
-Howard completed his PhD at UCLA under the advisement of Wotao Yin and Stanley Osher. Below are his notes for qualifying exams in the math program at UCLA.
+Howard completed his PhD at UCLA under the advisement of [Wotao Yin](https://scholar.google.com/citations?user=kpQGGFUAAAAJ&hl=en&oi=ao) and [Stanley Osher](https://scholar.google.com/citations?user=d3UtiX8AAAAJ&hl=en&oi=ao). Below are his notes for qualifying exams in the math program at UCLA.
 
 [Basic Notes :fontawesome-solid-file-lines: ](assets/basic-notes.pdf){ .md-button .md-button--primary }
 
