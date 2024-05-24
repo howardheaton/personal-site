@@ -18,17 +18,18 @@ theme:
 plugins: [] # required to remove search bar
 
 extra:
-  homepage: https://typal.academy
-  social:
-    - icon: fontawesome/brands/patreon
-      link: https://patreon.com/TypalAcademy         
+  homepage: https://typalacademy.com
+  social:       
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/howard-heaton/
     - icon: fontawesome/brands/youtube
       link: https://youtube.com/@TypalAcademy    
     - icon: simple/substack
-      link: https://substack.com/@howardheaton    
+      link: https://substack.com/@howardheaton 
+    - icon: fontawesome/brands/x-twitter
+      link: https://x.com/TypalAcademy         
 
+ 
 
 markdown_extensions:
   - pymdownx.highlight:
