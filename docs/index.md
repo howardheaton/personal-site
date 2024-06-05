@@ -2,7 +2,8 @@
 
 <center>
  
-Howard specializes in optimization algorithms for big data problems, particularly the creation, training, and evaluation of models that are data-driven and require hard constraints be satisfied (e.g. large systems of equations for physical systems).  
+Howard specializes in the construction and analysis of models and algorithms for machine learning problems. Specifically, he takes high-level problems from stakeholders and translates them into mathematical terms to develop software tools (in Python) in a way that is explainable, safe, scalable, data-driven and satisfies provided constraints (e.g. large systems of equations for physical systems). He has used these skills in several industries (e.g. medical imaging, e-commerce, animation), coordinating with both engineering and product stakeholders.
+
 
 <br>
 
@@ -21,12 +22,12 @@ Recent Explainable AI work, published in Nature's Scientific Reports
 <br>
 
 Howard writes and creates graphics for aspiring mathematicians.
- 
-<iframe src="https://optstack.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+
+<iframe src="https://www.typalacademy.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
 
 <br>
 
-<iframe src="https://www.typalacademy.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://optstack.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
 
 <br>
 
