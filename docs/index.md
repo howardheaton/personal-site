@@ -15,7 +15,9 @@ Recent Explainable AI work, published in Nature's Scientific Reports
 
 <br>
 
-[Google Scholar Profile :fontawesome-brands-google:](https://scholar.google.com/citations?user=blvaFx4AAAAJ){ .md-button .md-button--yellow}
+[Follow on Google Scholar :fontawesome-brands-google:](https://scholar.google.com/citations?user=blvaFx4AAAAJ){ .md-button .md-button--yellow}
+
+[Follow on LinkedIn :fontawesome-brands-linkedin:](https://www.linkedin.com/in/howard-heaton/){ .md-button .md-button--yellow}
 
 <br>
 
@@ -24,8 +26,6 @@ Recent Explainable AI work, published in Nature's Scientific Reports
 Howard writes and creates graphics for aspiring mathematicians.
 
 <iframe src="https://www.typalacademy.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
-
-<br>
 
 <iframe src="https://optstack.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
 
