@@ -4,15 +4,6 @@
  
 Howard specializes in the construction and analysis of models and algorithms for machine learning problems. Specifically, he takes high-level problems from stakeholders and translates them into mathematical terms to develop software tools (in Python) in a way that is explainable, safe, scalable, data-driven and satisfies provided constraints (e.g. large systems of equations for physical systems). He has used these skills in several industries (e.g. medical imaging, e-commerce, animation), coordinating with both engineering and product stakeholders.
 
-
-<br>
-
-[Preprint :material-file-document-outline:](https://xai-l2o.research.typal.academy/assets/xai-l2o-preprint.pdf){ .md-button }
-[Slides :material-presentation:](https://xai-l2o.research.typal.academy/assets/xai-l2o-slides.pdf){ .md-button }
-[Code / Docs :octicons-file-code-16:](https://xai-l2o.research.typal.academy/){ .md-button }
-
-Recent Explainable AI work, published in Nature's Scientific Reports
-
 <br>
 
 [Follow on Google Scholar :fontawesome-brands-google:](https://scholar.google.com/citations?user=blvaFx4AAAAJ){ .md-button .md-button--yellow}
