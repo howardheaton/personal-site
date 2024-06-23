@@ -1,4 +1,4 @@
-# Optimization + Machine Learning
+# Applied Math Research Scientist
 
 <center>
  
@@ -14,7 +14,7 @@ Howard specializes in the construction and analysis of models and algorithms for
 
 <br>
 
-Howard writes and creates graphics for aspiring mathematicians.
+Howard writes and creates graphics for aspiring mathematicians. He created Typal Academy to publish academic research and teach introductory real analysis ("advanced calculus").
 
 <iframe src="https://www.typalacademy.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
 
