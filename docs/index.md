@@ -18,8 +18,6 @@ Howard writes and creates graphics for aspiring mathematicians. He created Typal
 
 <iframe src="https://www.typalacademy.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
 
-<iframe src="https://optstack.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
-
 <br>
 
 Howard completed his PhD at UCLA under the advisement of [Wotao Yin](https://scholar.google.com/citations?user=kpQGGFUAAAAJ&hl=en&oi=ao) and [Stanley Osher](https://scholar.google.com/citations?user=d3UtiX8AAAAJ&hl=en&oi=ao). Below are his notes for qualifying exams in the math program at UCLA.
