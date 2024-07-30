@@ -17,6 +17,10 @@ theme:
 
 plugins: [] # required to remove search bar
 
+plugins:
+  - redirects:
+      redirect_maps:
+        'index.md': 'https://www.typalacademy.com'
 extra:
   homepage: https://typalacademy.com
   social:       
