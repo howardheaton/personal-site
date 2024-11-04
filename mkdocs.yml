@@ -20,7 +20,7 @@ plugins: [] # required to remove search bar
 plugins:
   - redirects:
       redirect_maps:
-        'index.md': 'https://www.typalacademy.com'
+        'index.md': 'https://bio.site/howardheaton'
 extra:
   homepage: https://typalacademy.com
   social:       
